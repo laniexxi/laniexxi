@@ -2,11 +2,12 @@
 <p align= "center">
 lanie. 
 <p align= "center">
-  $\color{#56776E}{\textsf{my god, my universe. }}$
+  $\color{#56776E}{\textsf{*my god,*}}$ $\color{#CD8FAB}{\textsf{*my universe.*}}$
+
 
 <p align= "center">
 *she / her*
 <p align= "center">
 *qsmp, alien stage, karmaland* 
-
+<p align= "center">
 [*my strawpage!*](straw.page.laniexxi) 
