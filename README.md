@@ -11,5 +11,5 @@
 <p align="center"><i>qsmp, alien stage, karmaland</i></p>
 
 <p align="center">
-  <a href="https://straw.page.laniexxi"><i>my strawpage!</i></a>
+  <a href="https://laniexxi.straw.page"><i>my strawpage!</i></a>
 </p>
