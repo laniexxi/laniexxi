@@ -1,8 +1,9 @@
-## Hi!! You can call me Lanie
+<img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com/user-attachments/assets/f34e5f42-4a7d-44ac-9976-6dc2e2e093a8" />
+<p align= "center">
+lanie. 
+  
+*she / her*
 
-idk how to use this shit brah so I'm just gonna link my strawpage here uhmm pls sign ok bye love u 
+*qsmp, alien stage, karmaland* 
 
-(note: Ill probably make a guestbook sooner or later but I'm too lazy rn ok) 
-
-MY STRAWPAGE!!
-## https://laniexxi.straw.page
+[*my strawpage!*](straw.page.laniexxi) 
