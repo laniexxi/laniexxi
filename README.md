@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com" />
-</p>
+</div>
 
 <p align="center">lanie.</p>
 
