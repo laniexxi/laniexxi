@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com/user-attachments/assets/f34e5f42-4a7d-44ac-9976-6dc2e2e093a8" />
+  <img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com" />
 </p>
 
 <p align="center">lanie.</p>
@@ -13,5 +13,5 @@
 <p align="center"><i>qsmp, alien stage, karmaland</i></p>
 
 <p align="center">
-  <a href="https://page.laniexxi">my strawpage!</a>
+  <a href="https://page.laniexxi"><i>my strawpage!</i></a>
 </p>
