@@ -8,7 +8,7 @@
 
 <p align="center"><i>she / her</i></p>
 
-<p align="center"><i>qsmp, alien stage, karmaland</i></p>
+<p align="center"><i>qsmp, alien stage, hetalia</i></p>
 
 <p align="center">
   <a href="https://laniexxi.straw.page"><i>my strawpage!</i></a>
