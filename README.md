@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com" />
-</div>
+<img width="734" height="430" alt="๋、       new   ,,     post      ‹𝟹" src="https://github.com/user-attachments/assets/f5845f15-53e8-41cc-bc98-afec73ab6118" />
 
 <p align="center">lanie.</p>
 
