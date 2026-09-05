@@ -13,3 +13,7 @@
 <p align="center">
   <a href="https://laniexxi.straw.page"><i>my strawpage!</i></a>
 </p>
+
+<p align="center">
+  <a href="https://laniexxi.atabook.org/"><i>my atabook!</i></a>
+</p>
