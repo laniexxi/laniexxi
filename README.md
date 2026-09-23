@@ -3,9 +3,14 @@
 <p align="center">
   $\color{#5F5F5F}{\textsf{\textit{`𝗍᥆ mᥱ, ᥡ᥆ᥙ ᥲrᥱ ᑲᥣᥲᥴk s᥆rr᥆ᥕ.`}}}$
 
+
+
+
   <p align="center">
   ᥣᥲᥒіᥱ. 
 
+
+  
   <p align="center">
   ˊ 𝖿ᥱᥱᥣ 𝖿rᥱᥱ 𝗍᥆ ᥴ+һ ᥲᥒძ іᥒ𝗍ᥱrᥲᥴ𝗍!! 
 
