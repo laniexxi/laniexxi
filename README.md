@@ -23,9 +23,9 @@
 <p align="center"> 
   <a href="https://laniexxi.straw.page"><i>strᥲᥕ⍴ᥲgᥱ</i></a> &nbsp;•&nbsp; 
   </a> &nbsp;•&nbsp; 
-  <a href="https://pronouns.page"><i>⍴r᥆ᥒ᥆ᥙᥒs ⍴ᥲgᥱ</i></a> 
+  <a href="https://en.pronouns.page/@theonlylanie"><i>⍴r᥆ᥒ᥆ᥙᥒs ⍴ᥲgᥱ</i></a> 
 </p>
 
 <p align="center">
-  <a href="https://atabook.org"><i>ᥲtaᑲ᥆᥆k</i></a>
+  <a href="https://laniexxi.atabook.org/"><i>ᥲtaᑲ᥆᥆k</i></a>
 </p>
