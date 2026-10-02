@@ -18,10 +18,8 @@
   <p align="right"> 
    ` ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ 𝖿ᥲ𝗍ᥱ? 
 
-
-  <a href="https://laniexxi.straw.page"><i>s𝗍rᥲᥕ⍴ᥲgᥱ</i></a>
-</p>
-  <a href="https://laniexxi.atabook.org/"><i>mᥡ ᥲ𝗍ᥲᑲ᥆᥆k!</i></a>
+ 
+  <p align="center"> <a href="https://laniexxi.straw.page"><i>s𝗍rᥲᥕ⍴ᥲgᥱ</i></a> </p> <a href="https://laniexxi.atabook.org/"><i>ᥲ𝗍ᥲᑲ᥆᥆k</i></a>
 </p>
 
 
