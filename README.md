@@ -4,23 +4,28 @@
   $\color{#5F5F5F}{\textsf{\textit{`𝗍᥆ mᥱ, ᥡ᥆ᥙ ᥲrᥱ ᑲᥣᥲᥴk s᥆rr᥆ᥕ.`}}}$
 
 
-
+ 
 
   <p align="center">
   ᥣᥲᥒіᥱ. 
-
+<p>&nbsp;</p>
 
   
   <p align="center">
   ˊ ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ ᥣ᥆᥎ᥱ ᥲ𝗍 𝖿іrs𝗍 sіgһ𝗍? 
-
+<p>&nbsp;</p>
 
   <p align="right"> 
    ` ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ 𝖿ᥲ𝗍ᥱ? 
 
- 
-  <p align="center"> <a href="https://laniexxi.straw.page"><i>s𝗍rᥲᥕ⍴ᥲgᥱ</i></a> </p> <a href="https://laniexxi.atabook.org/"><i>ᥲ𝗍ᥲᑲ᥆᥆k</i></a>
+ <p>&nbsp;</p>
+
+<p align="center"> 
+  <a href="https://straw.page"><i>strᥲᥕ⍴ᥲgᥱ</i></a> &nbsp;•&nbsp; 
+  <a href="https://github.com"><i>gіtһᥙᑲ</i></a> &nbsp;•&nbsp; 
+  <a href="https://pronouns.page"><i>⍴r᥆ᥒ᥆ᥙᥒs ⍴ᥲgᥱ</i></a> 
 </p>
 
-
-
+<p align="center">
+  <a href="https://atabook.org"><i>ᥲtataᑲ᥆᥆k</i></a>
+</p>
