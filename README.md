@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <a href="https://atabook.org"><i>ᥲtataᑲ᥆᥆k</i></a>
+  <a href="https://atabook.org"><i>ᥲtaᑲ᥆᥆k</i></a>
 </p>
