@@ -21,8 +21,8 @@
  <p>&nbsp;</p>
 
 <p align="center"> 
-  <a href="https://straw.page"><i>strᥲᥕ⍴ᥲgᥱ</i></a> &nbsp;•&nbsp; 
-  <a href="https://github.com"><i>gіtһᥙᑲ</i></a> &nbsp;•&nbsp; 
+  <a href="https://laniexxi.straw.page"><i>strᥲᥕ⍴ᥲgᥱ</i></a> &nbsp;•&nbsp; 
+  </a> &nbsp;•&nbsp; 
   <a href="https://pronouns.page"><i>⍴r᥆ᥒ᥆ᥙᥒs ⍴ᥲgᥱ</i></a> 
 </p>
 
