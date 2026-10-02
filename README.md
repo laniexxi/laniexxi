@@ -12,14 +12,15 @@
 
   
   <p align="center">
-  ˊ 𝖿ᥱᥱᥣ 𝖿rᥱᥱ 𝗍᥆ ᥴ+һ ᥲᥒძ іᥒ𝗍ᥱrᥲᥴ𝗍!! 
+  ˊ ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ ᥣ᥆᥎ᥱ ᥲ𝗍 𝖿іrs𝗍 sіgһ𝗍? 
 
 
-  <p align="center">
-  <a href="https://laniexxi.straw.page"><i>mᥡ s𝗍rᥲᥕ⍴ᥲgᥱ!</i></a>
+  <p align="right"> 
+   ` ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ 𝖿ᥲ𝗍ᥱ? 
+
+
+  <a href="https://laniexxi.straw.page"><i>s𝗍rᥲᥕ⍴ᥲgᥱ</i></a>
 </p>
-
-<p align="center">
   <a href="https://laniexxi.atabook.org/"><i>mᥡ ᥲ𝗍ᥲᑲ᥆᥆k!</i></a>
 </p>
 
