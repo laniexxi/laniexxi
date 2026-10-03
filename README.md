@@ -10,16 +10,6 @@
   ᥣᥲᥒіᥱ. 
 <p>&nbsp;</p>
 
-  
-  <p align="center">
-  ˊ ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ ᥣ᥆᥎ᥱ ᥲ𝗍 𝖿іrs𝗍 sіgһ𝗍? 
-<p>&nbsp;</p>
-
-  <p align="right"> 
-   ` ძ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ іᥒ 𝖿ᥲ𝗍ᥱ? 
-
- <p>&nbsp;</p>
-
 <p align="center"> 
   <a href="https://laniexxi.straw.page"><i>strᥲᥕ⍴ᥲgᥱ</i></a> &nbsp;•&nbsp; 
   </a> &nbsp;•&nbsp; 
